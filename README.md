@@ -1,12 +1,12 @@
-Kasper From Graphberry
+#Kasper From Graphberry
 This is a Design to the Kasper - One Page Creative PSD Template
 
-Built with
+#Built with
 Semantic HTML5 markup
 CSS custom properties & variables
 Flexbox
 CSS Grid
-What I learned
+#What I learned
 We can use background-color with background-image.
 
 The color will appear if the image is not loaded.
